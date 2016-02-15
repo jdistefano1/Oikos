@@ -1,0 +1,4 @@
+C:\GitHub\oikos\CreditCard\O365-WebApp-SingleTenant.SharePoint\bin\Debug\O365-WebApp-SingleTenant.SharePoint.dll.config
+C:\GitHub\oikos\CreditCard\O365-WebApp-SingleTenant.SharePoint\bin\Debug\O365-WebApp-SingleTenant.SharePoint.pdb
+C:\GitHub\oikos\CreditCard\O365-WebApp-SingleTenant.SharePoint\obj\Debug\O365-WebApp-SingleTenant.SharePoint.dll
+C:\GitHub\oikos\CreditCard\O365-WebApp-SingleTenant.SharePoint\obj\Debug\O365-WebApp-SingleTenant.SharePoint.pdb

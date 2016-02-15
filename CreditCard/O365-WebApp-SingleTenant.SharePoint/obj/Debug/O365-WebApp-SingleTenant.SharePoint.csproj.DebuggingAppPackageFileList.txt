@@ -1,0 +1,1 @@
+C:\GitHub\oikos\CreditCard\O365-WebApp-SingleTenant.SharePoint\bin\Debug\O365-WebApp-SingleTenant.SharePoint.debugapp
